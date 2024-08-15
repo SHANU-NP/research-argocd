@@ -1,0 +1,8 @@
+appName : springboot-app
+
+deployment:
+  image:
+    name: shanunp/my-app
+
+service:
+  name: springboot-service
