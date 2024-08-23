@@ -2,7 +2,7 @@ appName : springboot-app
 
 deployment:
   image:
-    name: shanunp/my-app
+    name: shanunp/jenkin-dockerize
 
 service:
   name: springboot-service
